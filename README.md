@@ -18,4 +18,4 @@ Make sure you have [Python 3](https://www.python.org/downloads/) installed, then
 ### Prepare the image data sets
 In order to start the transfer learning process, a folder named ``training_dataset`` needs to be created in the root of the project folder. This folder will contain the image data sets for all the subjects, for whom the classification is to be performed.
 
-[Download the Datasets here](https://drive.google.com/drive/folders/0B3P9oO5A3RvSUW9qTG11Ul83TEE)
+[Download the Datasets here](https://drive.google.com/drive/folders/1ujZ-Vi9X9CoS20dgXDmBNgUrc3cyUnXI?usp=sharing)
